@@ -18,5 +18,5 @@ Esse projeto é usado pelas seguintes empresas:
 ![Python](https://img.shields.io/badge/Python-fae89f?style=for-the-badge&logo=python&logoColor=)
 
 # Novidades na versão 2 do Projeto: 
-Foram ciadas funções para cada ação(deposito, saque extrato, criar conta, criar usuário)
+Foram criadas funções para cada ação(deposito, saque extrato, criar conta, criar usuário)
 Foram feitos ajustes no menu
